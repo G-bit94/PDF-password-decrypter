@@ -1,15 +1,15 @@
-# PDF Password Decrypter
+# PDF password decrypter
 
-## Overview
+### Overview
 
 This is a bash script that removes password protection from encrypted PDF files on Windows. Based on [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) but modified to work with Git Bash and Windows file paths.
 
-## Prerequisites
+### Prerequisites
 
 - Git Bash
 - [QPDF](https://github.com/qpdf/qpdf) installed and accessible in, say, `C:\Program Files\qpdf 11.10.1\bin\`
 
-## Installation
+### Installation
 
 1. Download script or clone the repo
 
@@ -20,7 +20,7 @@ This is a bash script that removes password protection from encrypted PDF files 
    chmod +x pdf-decrypt.sh
    ```
 
-## Usage
+### Usage
 
 To decrypt a PDF, run the following command in Git Bash:
 
