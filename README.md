@@ -11,7 +11,7 @@ This is a bash script that removes password protection from encrypted PDF files 
 
 ## Installation
 
-1. Download script of clone the repo
+1. Download script or clone the repo
 
 2. Navigate to the script download directory
  
